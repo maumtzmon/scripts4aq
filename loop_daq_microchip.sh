@@ -55,7 +55,7 @@ doBinned(){
         lta read
         }
 
-doSettings(){
+doSettings(){         #dev branch
 	rows=25
         lta NROW $rows
         cols=700
